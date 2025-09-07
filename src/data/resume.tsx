@@ -183,7 +183,7 @@ export const DATA = {
       degree: "Bachelor's Degree in Computer Science",
       logoUrl: "/kulogo.png",
       start: "2022",
-      end: "2026",
+      end: "Now",
     },
   ],
   projects: [
