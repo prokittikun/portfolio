@@ -17,7 +17,7 @@ interface ResumeCardProps {
   href?: string;
   badges?: readonly string[];
   period: string;
-  description?: string;
+  description?: string | React.ReactNode;
   defaultExpanded?: boolean;
 }
 export const ResumeCard = ({
