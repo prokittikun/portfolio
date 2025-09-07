@@ -417,7 +417,7 @@ export const DATA = {
       title:
         "Academic Conference of the Association of Future Thai Professionals",
       dates: "February 22nd, 2022",
-      location: "Trang, Thailand",
+      location: "Phrae, Thailand",
       description:
         "Competed in the 30th Academic Conference of the Association of Future Thai Professionals (national-level Computer Programming competition), where the top 1–3 teams from each region of Thailand advanced to compete against each other, forming a total of 15 teams. Our team received honorable mention (6th place).",
       image: "/thumbnail/aft.png",
