@@ -9,7 +9,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const projects = await getContents(ContentFolder.PROJECT)
 
   // Base URL - update this to match your domain
-  const baseUrl = 'https://www.kittikun.dev'
+  const baseUrl = 'https://kittikun.dev'
 
   // Static pages
   const routes: MetadataRoute.Sitemap = [
