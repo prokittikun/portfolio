@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kittikun.dev/sitemap.xml
+Sitemap: https://www.kittikun.dev/sitemap.xml
