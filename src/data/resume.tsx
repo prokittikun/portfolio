@@ -97,7 +97,7 @@ export const DATA = {
       title: "Software Engineer",
       logoUrl: "/experience/skilllane.png",
       start: "Jun 2025",
-      end: "Present",
+      end: "Oct 2025",
       description: (
         <>
           <ul className="list-disc pl-5">
