@@ -10,7 +10,7 @@ export const DATA = {
   description: "No Boundary, Make Tomorrow Better than Today",
   // "Aspiring Software Engineer. Computer Science student at Kasetsart University. No Boundary, Make Tomorrow Better than Today",
   summary:
-    "Senior-year Computer Science student at Kasetsart University with hands-on experience in Software Engineering through both internships and freelance projects. Skilled in software development, system design, and collaborative teamwork, with a strong commitment to delivering high-quality, user-focused solutions.",
+    "Computer Science graduate from Kasetsart University, currently working as a full-time Software Engineer with hands-on experience through internships and freelance projects. Skilled in software development, system design, and collaborative teamwork, with a strong commitment to delivering high-quality, user-focused solutions.",
   // "[Currently pursuing my Bachelor's degree in Computer Science at Kasetsart University](/#education) while building extensive real-world [experience as a full-stack developer](/#work). I've [contributed to diverse projects from hospital mobile applications to comprehensive construction management systems](/#projects), collaborated with professional development teams, and developed solutions spanning healthcare, education, fintech, and enterprise sectors. I combine academic learning with practical problem-solving, always seeking new challenges in the tech industry.",
 
   // "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
@@ -89,6 +89,25 @@ export const DATA = {
   },
 
   work: [
+    {
+      company: "Orange Cap Innovative Co. Ltd",
+      badges: ["Full-time"],
+      href: "https://www.orangecapinnovative.com/",
+      location: "Bangkok, Thailand",
+      title: "Software Engineer",
+      logoUrl: "/experience/orangecap.png",
+      start: "Apr 2026",
+      end: "Present",
+      description: (
+        <>
+          <ul className="list-disc pl-5">
+            <li>
+              Soon 👀
+            </li>
+          </ul>
+        </>
+      ),
+    },
     {
       company: "SkillLane Technology Public Co., Ltd.",
       badges: ["Internship"],
@@ -182,8 +201,8 @@ export const DATA = {
       href: "https://www.ku.ac.th",
       degree: "Bachelor's Degree in Computer Science",
       logoUrl: "/kulogo.png",
-      start: "2022",
-      end: "Present",
+      start: "June 2022",
+      end: "Mar 2026",
     },
   ],
   projects: [
